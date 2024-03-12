@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.complaint {
+    /* background: linear-gradient(135deg,rgba(113, 120, 123, 0.428) 0%,rgba(155, 81, 224, 0.565) 100%);;
+     */
+     text-align: center;
+     background: linear-gradient(to right, rgba(20, 137, 204, 0.402), rgba(43, 50, 178, 0.22));
+    /* font-size: 17px; */
+    margin-bottom: 5px;
+/* color: white; */
+}
+.complaint input{
+    height: 15px;
+    text-align:start;
+    width: 50px;
+    margin-top: 8px;
+    /* color: green; */
+}

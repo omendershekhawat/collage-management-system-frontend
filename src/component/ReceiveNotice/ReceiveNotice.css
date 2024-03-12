@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.notice-recieve img.card-img-top{
+    height: 200px;
+}
+.notice-recieve {
+    margin: 5px;
+    text-align: center;
+}

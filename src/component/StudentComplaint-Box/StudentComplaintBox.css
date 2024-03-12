@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.complaint-box h2{
+    padding-bottom: 20px;
+    text-decoration: underline 2px solid black;
+}

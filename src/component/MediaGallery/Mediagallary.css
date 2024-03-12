@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Mediaheading h1 {
+  text-align: center;
+
+  color: rgb(44, 10, 10);
+
+}
+
+.mediaPhotos img {
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 200px;
+  width: 300px;
+  box-shadow: 5px 5px 5px rgb(34, 34, 70);
+}
+
+.Addbtn{
+  text-align: center;
+}
+
+.Addbtn button {
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+  margin: 10px 5px;
+  /* text-align: center; */
+  /* height: auto 50px; */
+  /* width: 100px; */
+  padding: 5px 50px;
+
+}
+
+
+
+.addPhoto{
+  text-align: center;
+}
+.addPhoto label{
+  font-weight: bold;
+  padding: 10px 10px;
+}
+.addPhoto input{
+  padding: 0 10px;
+}
+button a{
+  color: white;
+  text-decoration: none;
+}

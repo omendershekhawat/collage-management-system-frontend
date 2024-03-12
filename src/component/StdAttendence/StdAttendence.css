@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.checkbox {
+    width: 20px;
+}
+
+.CheckClass{
+    text-align: center;
+}
+
+#Name input[type="text"] {
+    width: 148px;
+}
+
+#F-Name input[type="text"] {
+    width: 148px;
+}
+
+#Name th {
+    position: sticky;
+}
+
+#F-Name {
+    position: sticky;
+}
+
+#S-no {
+    position: sticky;
+}
+
+th.hrheader {
+    background-color: #337ab7;
+    color: white;
+}

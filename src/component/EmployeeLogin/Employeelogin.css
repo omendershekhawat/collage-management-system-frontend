@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.Input{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.eyeicon{
+    position: absolute;
+    right: 0;
+    /* top:1px; */
+    padding: 7px 10px;
+    margin-right: 13px;
+    /* margin-top: -1px; */
+    font-size: 14px;
+    font-weight: 600;
+    color: #2a4365;
+    background-color: #EDF2F7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.container.hadder{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+/* .hadder img {
+    height: 100px;
+    width: 121px;
+} */
+.container{
+    margin-bottom: 20px;
+}
+
+.Adminreg button {
+    border: none;
+    height: 40px;
+    width: 200px;
+    background-color: #4E0FEA;
+    color: white;
+    border-radius: 10px;
+}
+/* .employloginbutton button{
+  text-align: justify;
+} */
+

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.wapper-sec .style {
+    border: 2px solid white;
+    background-color: white;
+}
+
+.wapper-sec .nav-link {
+    height: 40px;
+    width: 200px;
+    border: 2px solid gray;
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+.background{
+    text-align: center;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.628) , rgba(0, 0, 0, 0.643) , rgba(0, 0, 0, 0.635)), url(../Image/Staff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+/* .wapper-sec .bg-body-tertiary{
+    background-color: rgb(32 13 105) !important;
+    height: auto;
+    padding: 20px;
+} */
