@@ -6,8 +6,6 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
 import { useLocation } from 'react-router-dom';
-
-import 'bootstrap/dist/css/bootstrap.min.css';
 import cap from '/src/component/Image/cap.png'
 import '../BCOM/Bcom.css'
 

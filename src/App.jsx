@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react'
 import { createContext } from 'react'
+import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './component/Header/Header.jsx'
 import Home from './component/Home/Home.jsx'
 import Footer from './component/Footer/Footer.jsx'
@@ -41,7 +43,7 @@ import Result from './component/Result/Result.jsx'
 import MarksTable from './component/Std-Result/Marks-table/MarksTable.jsx'
 import Attendence from './component/Attendence/Attendence.jsx'
 import StdAttendence from './component/StdAttendence/StdAttendence.jsx'
-import './App.css'
+
 
 
 

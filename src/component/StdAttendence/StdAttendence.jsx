@@ -1,5 +1,4 @@
 import Table from 'react-bootstrap/Table';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import '../StdAttendence/StdAttendence.css'
 import { useParams } from 'react-router-dom';
 import { useContext } from 'react';

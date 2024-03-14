@@ -1,7 +1,6 @@
 import React, { useEffect, useState, useContext } from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 import Form from 'react-bootstrap/Form';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import '../ShowStudentDetails/ShowStudentDetails.css'
 import axios from 'axios';
 

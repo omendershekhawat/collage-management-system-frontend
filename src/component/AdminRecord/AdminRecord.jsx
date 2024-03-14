@@ -1,7 +1,6 @@
 import React from 'react'
 import '../AdminRecord/AdminRecord.css'
 import Container from 'react-bootstrap/Container';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState, useContext ,useEffect } from 'react';
 import Button from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';

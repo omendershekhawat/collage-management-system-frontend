@@ -1,7 +1,6 @@
 import React from 'react'
 import '../StudentRecord/StudentRecord.css'
 import Container from 'react-bootstrap/Container';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState, useContext } from 'react';
 import { useEffect } from 'react';
 import Button from 'react-bootstrap/Button';

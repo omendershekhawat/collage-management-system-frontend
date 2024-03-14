@@ -1,6 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
 import '../MediaGallery/Mediagallary.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
