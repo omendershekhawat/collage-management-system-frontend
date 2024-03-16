@@ -4,7 +4,6 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 import Row from 'react-bootstrap/Row';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import cap from '../Image/cap.png'
 import '../EmployeeLogin/Employeelogin.css'
 import { Link } from 'react-router-dom';

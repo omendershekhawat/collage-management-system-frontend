@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useContext } from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
 import Table from 'react-bootstrap/Table';
 import '../AllStdRecord/AllStdRecord.css'

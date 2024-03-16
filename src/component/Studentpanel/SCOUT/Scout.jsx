@@ -5,8 +5,6 @@ import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
-
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Nss from '/src/component/Image/Nss-logo.jpeg'
 import '../SCOUT/Scout.css'
 import { useLocation } from 'react-router-dom';

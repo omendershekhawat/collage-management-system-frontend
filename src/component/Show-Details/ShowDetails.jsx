@@ -1,5 +1,4 @@
 import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
 import {Container, Row , Col } from 'react-bootstrap'
 import { useState } from 'react';
